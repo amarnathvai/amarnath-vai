@@ -1,10 +1,8 @@
-# amarnath-vai
-My New Web Site
-
 <!DOCTYPE html>
 <html lang="en">
-    <meta charset="UTF-8">
+    <meta charset="amarnathvai134">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
 <head>
    <title>Amarnath web</title>
    <link rel="stylesheet" href="Web Site -1.css">
@@ -80,28 +78,6 @@ My New Web Site
   
     </table>
     <link rel="stylesheet" href="amr.css">
-
-    *{
-    margin: 0%;
-    padding: 0%;
-}
-
-html,body{
-    width: 100%;
-    height: 100%;
-}
-
-body{
-    background-attachment: fixed;
-    background-image: url('https://dustinstout.com/wp-content/uploads/2018/10/copyright-free-images-1920x1080.jpg');
-}
-
-
-
-
-th{
-    border-color: rgba(209, 38, 164, 0.542);
-}
     
 </body>
 </html>
